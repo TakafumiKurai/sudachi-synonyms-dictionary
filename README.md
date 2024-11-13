@@ -1,3 +1,11 @@
+### このレポジトリは本家のsudachi-synonyms-dictionaryからforkしたレポジトリです。
+[azu](https://github.com/azu)さんの[sudachi-synonyms-dictionary](https://github.com/azu/sudachi-synonyms-dictionary)をフォークしています。
+
+基本的なライセンスはフォーク元のazuさんのレポジトリに準拠します。
+
+### 改変点
+sudachi-synonyms-dictionary.jsonを[最新のもの（2024.11.13時点）](https://github.com/WorksApplications/SudachiDict/blob/develop/src/main/text/synonyms.txt)に置き換えています。
+
 # sudachi-synonyms-dictionary
 
 Sudachi's synonyms dictionary

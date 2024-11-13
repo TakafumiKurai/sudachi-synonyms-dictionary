@@ -1,6 +1,6 @@
 {
-  "name": "sudachi-synonyms-dictionary",
-  "version": "14.0.0",
+  "name": "sudachi-synonyms-dictionary-kurai-forked-ver",
+  "version": "15.0.0",
   "description": "sudachi's synonyms dictionary",
   "keywords": [
     "dictionary",
@@ -8,13 +8,13 @@
     "synonyms",
     "japanese"
   ],
-  "homepage": "https://github.com/azu/sudachi-synonyms-dictionary",
+  "homepage": "https://github.com/TakafumiKurai/sudachi-synonyms-dictionary",
   "bugs": {
-    "url": "https://github.com/azu/sudachi-synonyms-dictionary/issues"
+    "url": "https://github.com/TakafumiKurai/sudachi-synonyms-dictionary/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/azu/sudachi-synonyms-dictionary.git"
+    "url": "https://github.com/TakafumiKurai/sudachi-synonyms-dictionary.git"
   },
   "license": "Apache-2.0",
   "author": "azu",
